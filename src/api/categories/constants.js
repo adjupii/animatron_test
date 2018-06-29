@@ -1,0 +1,1 @@
+export const GET_CATEGORIES_URL = 'https://api.animatron.com/template-categories';
